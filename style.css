@@ -1,0 +1,19 @@
+img{
+  width: 100%;
+  object-fit: contain;
+}
+#jumbo{
+  padding: 0;
+}
+.row{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.row2{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
